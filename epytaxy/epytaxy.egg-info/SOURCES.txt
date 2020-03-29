@@ -1,5 +1,0 @@
-setup.py
-epytaxy.egg-info/PKG-INFO
-epytaxy.egg-info/SOURCES.txt
-epytaxy.egg-info/dependency_links.txt
-epytaxy.egg-info/top_level.txt
